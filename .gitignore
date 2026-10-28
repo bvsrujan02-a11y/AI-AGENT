@@ -1,0 +1,8 @@
+.env
+*.env
+ai-agent-project/.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
